@@ -93,6 +93,8 @@ reactivations
 # Common English words not in default dictionary
 roundtrips
 normalises
+uppercased
+effectful
 
 # Driver-specific terms
 partitionkey
@@ -105,6 +107,8 @@ reqs
 Geospatial
 newtypes
 fract
+ctypes
+cffi
 
 # Stored procedure and UDF shorthand
 sproc
